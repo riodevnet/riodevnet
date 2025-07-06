@@ -21,7 +21,7 @@ socials = {
     'github': 'https://github.com/riodevnet',
     'linkedin': 'https://linkedin.com/in/rioagungpurnomo',
     'keybase': 'https://keybase.io/riodevnet',
-    'discord': 'https://discord.com/users/1391439005505290331',
+    'discord': '@riodevnet',
     'telegram': 'https://t.me/riodevnet',
     'views': 'https://komarev.com/ghpvc/?username=riodevnet&color=brightgreen'
 }
